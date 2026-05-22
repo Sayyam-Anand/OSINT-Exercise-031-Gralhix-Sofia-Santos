@@ -72,7 +72,7 @@ The preliminary results also suggested a significant lead for the second part of
 
 <h3>Step 3 — Google Search for arrival date at DAK, WDW Magazine Website, Windsor Palms Florida News Website, LaughingPlace.com , and Flickr Post</h3>
 
-<p>I searched: <i>"willow giraffe disney animal kingdom"</i>. In the overview I found a link to the WDW Magazine website discussing the arrival of a new baby giraffe at Disney's Animal Kingdom. I clicked on the link to get more information about Willow's arrival date. It turned out to be a different giraffe — a male, born on June 10 — not Willow.</p>
+<p>I searched: <i>"willow giraffe disney animal kingdom"</i>. In the search results, I found a link to the WDW Magazine website discussing the arrival of a new baby giraffe at Disney's Animal Kingdom. I clicked on the link to get more information about Willow's arrival date. It turned out to be a different giraffe — a male, born on June 10 — not Willow.</p>
 
 <img width="891" height="389" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/7737022f-20bf-44ba-b99e-dd613ce056b9" />
 
