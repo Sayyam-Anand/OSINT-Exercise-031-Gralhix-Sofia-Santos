@@ -59,7 +59,7 @@
 
 <i>Ref 3: Wayback Machine confirming the first archive snapshot of the Flickr page</i>
 
-<h3>Step 2 — Google Lens and AI Overview</h3>
+<h3>Step 2 — Initial Identification and Lead Generation</h3>
 
 <img width="565" height="158" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/d8eda998-fc81-4e55-99ab-6dece7490c72" />
 
