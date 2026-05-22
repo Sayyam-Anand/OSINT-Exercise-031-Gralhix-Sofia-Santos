@@ -24,11 +24,10 @@
 
 <h2>Tools Used</h2>
 <ul style="list-style-type: '- '; padding-left: 20px;">
-  <li>TinEye — reverse image search to locate original source</li>
-  <li>Google Lens — image identification and AI overview</li>
-  <li>Google AI Mode Search — additional verification and lead generation</li>
-  <li>Wayback Machine — evidence preservation</li>
-  <li>Google Search — locating news articles and blog posts</li>
+  <li>TinEye — Reverse image search to locate original source and metadata</li>
+  <li>Google Lens — image identification and reverse image search</li>
+  <li>Wayback Machine — Discovery of historical zoo records and preservation of volatile evidence</li>
+  <li>Google Search & Advanced Dorking — Manual keyword research to identify subjects and cross-reference arrival dates</li>
 </ul>
 
 <h2>Process</h2>
@@ -64,9 +63,12 @@
 
 <img width="565" height="158" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/d8eda998-fc81-4e55-99ab-6dece7490c72" />
 
-<i>Ref 4: Google Lens AI overview confirming name, place, and date of birth</i>
+<i>Ref 4:  Initial identification leads regarding the subject’s name and history</i>
 
-<p>I put the image into Google Lens to get more information. The AI overview confirmed the place and date of birth (October 21, 2009, at the Virginia Zoo in Norfolk). It also revealed her name: <b>Willow</b>. The overview further noted that she was later transferred to Disney's Animal Kingdom, and mentioned a distinct heart-shaped marking on her neck.</p>
+<p>To establish a baseline for the investigation, I used image recognition to generate initial leads. This process provided several key data points to be manually verified: the subject was identified as a giraffe named Willow, born on October 21, 2009, at the Virginia Zoo in Norfolk.<br><br>
+
+The preliminary results also suggested a significant lead for the second part of the task: a transfer to Disney’s Animal Kingdom. Additionally, I noted a reference to a distinct heart-shaped marking on her neck, which I recorded as a primary visual identifier for cross-referencing in later steps. I treated these findings not as final answers, but as a technical foundation for the targeted manual searches that followed.
+</p>
 
 <h3>Step 3 — Google Search for arrival date at DAK, WDW Magazine Website, Windsor Palms Florida News Website, LaughingPlace.com , and Flickr Post</h3>
 
